@@ -1,0 +1,111 @@
+[
+  {
+    "nombre": "Camiseta THE FUTURE PAST TOUR 2024 - Australia",
+    "precio": 45.5,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvOC8xNC80NC82YmI5ZDFhZi0zMzhhLTQxOGMtYTU2OC0xZWMyNDU4MGFiMDI%3D&height=1000&mode=cover&width=1000&v=1",
+    "extras": [
+      {
+        "nombre": "Estampado trasero",
+        "precio": 25.50
+      },
+      {
+        "nombre": "Manga larga",
+        "precio": 10.0
+      }
+    ]
+  },
+  {
+    "nombre": "Sudadera THE FUTURE PAST TOUR 2024 ",
+    "precio": 120,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvNS8xMi81OC84MjQ0MzY3YS0wZGY0LTQyMTEtOWU1Mi04ODQyOGY3ODk2MWU%3D&height=1000&mode=cover&width=1000&v=1",
+    "extras": [
+      {
+        "nombre": "Estampado trasero",
+        "precio": 25.50
+      }
+    ]
+  },
+  {
+    "nombre": "Jersey fútbol americano THE FUTURE PAST TOUR",
+    "precio": 65.5,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvNS8xMi81Ni8yN2Q5YzYyMi0wMDZjLTRiNzEtOGJmOC00NDQ3NjljOWEzNjU%3D&height=600&mode=cover&width=600&v=1",
+    "extras": [
+      {
+        "nombre": "Estampado personalizado",
+        "precio": 30.0
+      },
+      {
+        "nombre": "Manga larga",
+        "precio": 10.0
+      }
+    ]
+  },
+  {
+    "nombre": "Gorra de béisbol THE FUTURE PAST TOUR 2024",
+    "precio": 25.5,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvNS8xMy8zLzQyNGNhY2FmLTFkYjQtNDNlMC1hMDliLWRmZWQzYWMyNTlmOA%3D%3D&height=600&mode=cover&width=600&v=1",
+    "extras": []
+  },
+  {
+    "nombre": "Parches - THE FUTURE PAST TOUR 2024",
+    "precio": 25,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvNS8xMy80LzU4ZmZiOTNlLTgwNGItNDc5Ni04MGE2LTUzODI5MWM0MjRiMA%3D%3D&height=600&mode=cover&width=600&v=1",
+    "extras": [
+      {
+        "nombre": "Doble de parches",
+        "precio": 15
+      }
+    ]
+  },
+  {
+    "nombre": "Camiseta THE FUTURE PAST TOUR 2024",
+    "precio": 45.5,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvNS8xMi8xMS81OTc2NGJmYS1hMWE0LTRkMGQtOWM5Yi01YWYwYWEzMGYyMmQ%3D&height=600&mode=cover&width=600&v=1",
+    "extras": [
+      {
+        "nombre": "Estampado trasero",
+        "precio": 25.50
+      },
+      {
+        "nombre": "Manga larga",
+        "precio": 10.0
+      }
+    ]
+  },
+  {
+    "nombre": "Camiseta THE FUTURE PAST TOUR 2024 - Alexander the Great",
+    "precio": 45.5,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvNS8xMi81MC8yNjM5YmE3ZC01M2E3LTQ4NDgtOTM1NC1jMDU1MDYzMzJmM2E%3D&height=600&mode=cover&width=600&v=1",
+    "extras": [
+      {
+        "nombre": "Estampado trasero",
+        "precio": 25.50
+      },
+      {
+        "nombre": "Manga larga",
+        "precio": 10.0
+      }
+    ]
+  },
+  {
+    "nombre": "Camiseta THE FUTURE PAST TOUR 2024 - Senjutsu Monte Fuji",
+    "precio": 45.5,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvNS8xMi81MS84ZDZlY2M1ZS1kZTQ2LTQyYzYtOTg1Yy02YjJjY2M2OGYzZGI%3D&height=600&mode=cover&width=600&v=1",
+    "extras": [
+      {
+        "nombre": "Estampado trasero",
+        "precio": 25.50
+      },
+      {
+        "nombre": "Manga larga",
+        "precio": 10.0
+      }
+    ]
+  },
+  {
+    "nombre": "Llavero y pin THE FUTURE PAST TOUR 2024",
+    "precio": 25.5,
+    "imagen": "https://enterprise-ecommerce-store-images.freetls.fastly.net/resize?u=aHR0cHM6Ly9lY29tbWVyY2UtcHVibGljLWFzc2V0cy5zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2ZmY2FmYjlkLTMxNjAtNDc2My1iOTUwLWQwYzYxOGQyYzFkNy8yMDI0LzgvNS8xMy81L2IxNTA4ZTYzLTRlNDYtNGQ4MC05NjJkLTcwZDU3NmIzMjJiOQ%3D%3D&height=600&mode=cover&width=600&v=1",
+    "extras": []
+  }
+]

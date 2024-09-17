@@ -1,0 +1,268 @@
+[
+  {
+    "month": "Septiembre",
+    "concerts": [
+      {
+        "date": "Dom 1",
+        "location": "Perth, AUSTRALIA",
+        "hall": "RAC Arena",
+        "guests": ["Killswitch Engage"]
+      },
+      {
+        "date": "Mié 4",
+        "location": "Adelaide, AUSTRALIA",
+        "hall": "Adelaide Entertainment Centre",
+        "guests": ["Killswitch Engage"]
+      },
+      {
+        "date": "Vie 6",
+        "location": "Melbourne, AUSTRALIA",
+        "hall": "Rod Laver Arena",
+        "guests": ["Killswitch Engage"]
+      },
+      {
+        "date": "Sáb 7",
+        "location": "Melbourne, AUSTRALIA",
+        "hall": "Rod Laver Arena",
+        "guests": ["Killswitch Engage"]
+      },
+      {
+        "date": "Mar 10",
+        "location": "Brisbane, AUSTRALIA",
+        "hall": "Brisbane Entertainment Centre",
+        "guests": ["Killswitch Engage"]
+      },
+      {
+        "date": "Jue 12",
+        "location": "Sydney, AUSTRALIA",
+        "hall": "Qudos Bank Arena",
+        "guests": ["Killswitch Engage"]
+      },
+      {
+        "date": "Vie 13",
+        "location": "Sydney, AUSTRALIA",
+        "hall": "Qudos Bank Arena",
+        "guests": ["Killswitch Engage"]
+      },
+      {
+        "date": "Lun 16",
+        "location": "Auckland, NEW ZEALAND",
+        "hall": "Spark Arena",
+        "guests": ["Killswitch Engage"]
+      },
+      {
+        "date": "Dom 22",
+        "location": "Aichi, JAPAN",
+        "hall": "Sky Hall Toyota",
+        "guests": []
+      },
+      {
+        "date": "Mar 24",
+        "location": "Osaka, JAPAN",
+        "hall": "Osaka-Jo Hall",
+        "guests": []
+      },
+      {
+        "date": "Jue 26",
+        "location": "Tokyo, JAPAN",
+        "hall": "Tokyo Garden Theater",
+        "guests": []
+      },
+      {
+        "date": "Sáb 28",
+        "location": "Kanagawa, JAPAN",
+        "hall": "Pia Arena MM",
+        "guests": []
+      },
+      {
+        "date": "Dom 29",
+        "location": "Kanagawa, JAPAN",
+        "hall": "Pia Arena MM",
+        "guests": []
+      }
+    ]
+  },
+  {
+    "month": "Octubre",
+    "concerts": [
+      {
+        "date": "Vie 4",
+        "location": "San Diego, CA, USA",
+        "hall": "North Island Credit Union Amphitheatre",
+        "guests": []
+      },
+      {
+        "date": "Sáb 5",
+        "location": "Las Vegas, NV, USA",
+        "hall": "Michelob ULTRA Arena",
+        "guests": []
+      },
+      {
+        "date": "Mar 8",
+        "location": "Los Angeles, CA, USA",
+        "hall": "Kia Forum",
+        "guests": []
+      },
+      {
+        "date": "Sáb 12",
+        "location": "Sacramento, CA, USA",
+        "hall": "Aftershock Festival",
+        "guests": []
+      },
+      {
+        "date": "Lun 14",
+        "location": "Portland, OR, USA",
+        "hall": "MODA Center",
+        "guests": []
+      },
+      {
+        "date": "Mié 16",
+        "location": "Tacoma, WA, USA",
+        "hall": "Tacoma Dome",
+        "guests": []
+      },
+      {
+        "date": "Vie 18",
+        "location": "Salt Lake City, UT, USA",
+        "hall": "Delta Center",
+        "guests": []
+      },
+      {
+        "date": "Sáb 19",
+        "location": "Denver, CO, USA",
+        "hall": "Ball Arena",
+        "guests": []
+      },
+      {
+        "date": "Mar 22",
+        "location": "St Paul, MN, USA",
+        "hall": "Xcel Energy Center",
+        "guests": []
+      },
+      {
+        "date": "Jue 24",
+        "location": "Rosemont, IL, USA",
+        "hall": "Allstate Arena",
+        "guests": []
+      },
+      {
+        "date": "Sáb 26",
+        "location": "Toronto, ON, CANADA",
+        "hall": "Scotiabank Arena",
+        "guests": []
+      },
+      {
+        "date": "Dom 27",
+        "location": "Quebec, QC, CANADA",
+        "hall": "Videotron Centre",
+        "guests": []
+      },
+      {
+        "date": "Mié 30",
+        "location": "Montreal, QC, CANADA",
+        "hall": "Centre Bell",
+        "guests": []
+      }
+    ]
+  },
+  {
+    "month": "Noviembre",
+    "concerts": [
+      {
+        "date": "Vie 1",
+        "location": "Philadelphia, PA, USA",
+        "hall": "Wells Fargo Center",
+        "guests": []
+      },
+      {
+        "date": "Sáb 2",
+        "location": "Brooklyn, NY, USA",
+        "hall": "Barclays Center",
+        "guests": []
+      },
+      {
+        "date": "Mié 6",
+        "location": "Worcester, MA, USA",
+        "hall": "DCU Center",
+        "guests": []
+      },
+      {
+        "date": "Vie 8",
+        "location": "Pittsburgh, PA, USA",
+        "hall": "PPG Paints Arena",
+        "guests": []
+      },
+      {
+        "date": "Sáb 9",
+        "location": "Newark, NJ, USA",
+        "hall": "Prudential Center",
+        "guests": []
+      },
+      {
+        "date": "Mar 12",
+        "location": "Baltimore, MD, USA",
+        "hall": "CFG Bank Arena",
+        "guests": []
+      },
+      {
+        "date": "Mié 13",
+        "location": "Charlotte, NC, USA",
+        "hall": "Spectrum Center",
+        "guests": []
+      },
+      {
+        "date": "Sáb 16",
+        "location": "Fort Worth, TX, USA",
+        "hall": "Dickies Arena",
+        "guests": []
+      },
+      {
+        "date": "Dom 17",
+        "location": "San Antonio, TX, USA",
+        "hall": "Frost Bank Center",
+        "guests": []
+      },
+      {
+        "date": "Mié 20",
+        "location": "Mexico City, MEXICO",
+        "hall": "Foro Sol",
+        "guests": []
+      },
+      {
+        "date": "Dom 24",
+        "location": "Bogotá, COLOMBIA",
+        "hall": "El Campin Stadium",
+        "guests": []
+      },
+      {
+        "date": "Mié 27",
+        "location": "Santiago, CHILE",
+        "hall": "Estadio Nacional",
+        "guests": []
+      },
+      {
+        "date": "Jue 28",
+        "location": "Santiago, CHILE",
+        "hall": "Estadio Nacional",
+        "guests": []
+      }
+    ]
+  },
+  {
+    "month": "Diciembre",
+    "concerts": [
+      {
+        "date": "Vie 6",
+        "location": "Sao Paulo, BRAZIL",
+        "hall": "Allianz Parque",
+        "guests": ["Volbeat"]
+      },
+      {
+        "date": "Sáb 7",
+        "location": "Sao Paulo, BRAZIL",
+        "hall": "Allianz Parque",
+        "guests": ["Volbeat"]
+      }
+    ]
+  }
+]

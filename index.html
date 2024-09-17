@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Iron Maiden</title>
+    <link rel="icon" href="images/tabLogo.png" type="image/png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="images/logoSmall.png" type="image/png">
+</head>
+<body>
+<!-- Barra de navegación -->
+<header>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary zindex-fixed">
+        <div class="container-fluid">
+            <a class="navbar-brand" aria-current="page" href="index.html">
+                <img src="images/logo.png" alt="">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+                    aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" href="views/galeria.html">Galería</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="views/presupuesto.html">Presupuesto</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="views/contacto.html">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<main>
+    <!-- Carrusel de imágenes -->
+    <section>
+        <div id="miCarrusel" class="carousel slide">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#miCarrusel" data-bs-slide-to="0" class="active"
+                        aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#miCarrusel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#miCarrusel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#miCarrusel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                <button type="button" data-bs-target="#miCarrusel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                <button type="button" data-bs-target="#miCarrusel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                <button type="button" data-bs-target="#miCarrusel" data-bs-slide-to="6" aria-label="Slide 7"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="images/membersCarrousel/Band.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Iron Maiden</h3>
+                        <p>Desde 1975</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="images/membersCarrousel/Steve-Harris.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Steve Harris</h3>
+                        <p>Fundador y bajista de la banda</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="images/membersCarrousel/Dave-Murray.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Dave Murray</h3>
+                        <p>Mítico guitarrista desde los inicios</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="images/membersCarrousel/Bruce-Dickinson.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Bruce Dickinson</h3>
+                        <p>El icónico cantante</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="images/membersCarrousel/Janick-Gers.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Janick Gers</h3>
+                        <p>Guitarrista del grupo desde 1990</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="images/membersCarrousel/Adrian-Smith.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Adrian Smith</h3>
+                        <p>Veterano guitarrista</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="images/membersCarrousel/Nicko-McBrain.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3>Nicko McBrain</h3>
+                        <p>El gran Nicko</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="paralaje">
+        <div class="oscurecer"><!-- Noticias -->
+            <section class="container-lg espacio-blanco">
+                <div id="noticias" class="row justify-content-center text-center gx-5">
+                    <h2 class="mes">Noticias</h2>
+                </div>
+            </section>
+            <!-- Tours -->
+            <section class="container-lg fondoTours">
+                <div id="tours">
+                    <h2 class="mes">Conciertos futuros</h2>
+                </div>
+            </section>
+            <!-- Banda -->
+            <section class="container-lg">
+                <div class="row miembrosBanda">
+                    <div class="col-12 text-center">
+                        <h2 class="mes">Miembros de la banda</h2>
+                    </div>
+                    <!-- Steve Harris -->
+                    <div class="col-lg-6 text-center">
+                        <div class="miembro">
+                            <img src="images/members/Steve-Harris.jpg" alt="">
+                            <p>Bajista</p>
+                        </div>
+                    </div>
+                    <!-- Bruce Dickinson -->
+                    <div class="col-lg-6 text-center">
+                        <div class="miembro">
+                            <img src="images/members/Bruce-Dickinson.jpg" alt="">
+                            <p>Cantante</p>
+                        </div>
+
+                    </div>
+                    <!-- Adrian Smith -->
+                    <div class="col-lg-6 text-center">
+                        <div class="miembro">
+                            <img src="images/members/Adrian-Smith.jpg" alt="">
+                            <p>Guitarrista</p>
+                        </div>
+
+                    </div>
+                    <!-- Janick Gers -->
+                    <div class="col-lg-6 text-center">
+                        <div class="miembro">
+                            <img src="images/members/Janick-Gers.jpg" alt="">
+                            <p>Guitarrista</p>
+                        </div>
+
+                    </div>
+                    <!-- Nicko McBrain -->
+                    <div class="col-lg-6 text-center">
+                        <div class="miembro">
+                            <img src="images/members/Nicko-McBrain.jpg" alt="">
+                            <p>Batería</p>
+                        </div>
+
+                    </div>
+                    <!-- Dave Murray -->
+                    <div class="col-lg-6 text-center">
+                        <div class="miembro">
+                            <img src="images/members/Dave-Murray.jpg" alt="">
+                            <p>Guitarrista</p>
+                        </div>
+
+                    </div>
+                    <!-- Eddie The Head -->
+                    <div class="col-lg-12 text-center">
+                        <div class="miembro">
+                            <img src="images/members/Eddie-the-Head.jpg" alt="">
+                            <p>Mascota</p>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+</main>
+<!-- Pie de página -->
+<footer>
+    <div class="piePagina">
+        <div class="row container">
+            <div class="col-2 contenedor-imagen">
+                <div class="piePagina-Imagen"></div>
+            </div>
+            <div class="col-10 links"> <!-- Links -->>
+                <div> <!-- Twitter -->
+                    <a href="https://twitter.com/IronMaiden?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+                        <ion-icon name="logo-twitter"></ion-icon>
+                    </a>
+                </div>
+                <div> <!-- Instagram -->
+                    <a href="https://www.instagram.com/ironmaiden/">
+                        <ion-icon name="logo-instagram"></ion-icon>
+                    </a>
+                </div>
+                <div> <!-- Facebook -->
+                    <a href="https://es-es.facebook.com/ironmaiden/">
+                        <ion-icon name="logo-facebook"></ion-icon>
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 copyright"> <!-- Copyright -->
+                <p>© 2024 - Christian del Valle - Trabajo final: Javascript - MDigital - Todos los derechos reservados</p>
+            </div>
+            <div class="col-12 copyright"> <!-- Copyright -->
+                <p>221B Baker Street, Londres, Inglaterra</p>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+<script src="js/constructores.js"></script>
+<!-- Iconos -->
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
